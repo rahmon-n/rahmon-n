@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahmon-n
 - 👀 I’m interested in Web-development
-- 🌱 My skills: HTML, CSS (SASS), JavaScript, React JS, Redux, RTK, styled-components, Firebase, MUI... 
+- 🌱 My skills: HTML, CSS, JavaScript, TypeScript, React JS, Redux + RTK, TanstackQuery, Firebase... 
 - 📫 How to reach me https://t.me/rahmon_n
 
 <!---
